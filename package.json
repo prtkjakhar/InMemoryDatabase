@@ -1,0 +1,14 @@
+{
+  "name": "inmemorydatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Jakhar",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.2"
+  }
+}
